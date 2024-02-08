@@ -1,0 +1,49 @@
+Project Question: Innovative Elizabeth Webpage
+
+Objective: Develop a dynamic and visually appealing webpage for Innovative Elizabeth, 
+incorporating various web development concepts such as buttons, navigation menus, 
+footers, anchor tags, animations, transitions, and more.
+
+Requirements:
+
+Header Section:
+
+Create a header that includes the name "Innovative Elizabeth."
+Design a navigation bar with responsive navigation links.
+Implement a visually appealing logo for Innovative Elizabeth.
+Main Content Section:
+
+Feature a welcome message introducing Innovative Elizabeth.
+Utilize buttons to link to different sections or services provided by Innovative Elizabeth.
+Incorporate anchor tags for smooth navigation within the webpage.
+Include engaging content and high-quality images to showcase the innovative Elizabeth's work.
+Interactive Elements:
+
+Implement animations and transitions to enhance user experience.
+Use hover effects for buttons and navigation links.
+Include a dynamic element (e.g., a slideshow, carousel, or interactive widget) to captivate the audience.
+Footer Section:
+
+Design a footer that includes contact information and social media links.
+Implement a smooth scroll-to-top button.
+Additional Considerations:
+
+Ensure the webpage is mobile-responsive for seamless viewing on various devices.
+Optimize the webpage for fast loading times.
+Validate the HTML and CSS code for adherence to web standards.
+Submission Guidelines:
+
+Submit the project as a compressed folder containing all necessary files (HTML, CSS, images, etc.).
+Provide a brief documentation file explaining the design choices, features, and functionalities............... DO THIS IN A README FILE 
+Evaluation Criteria:
+
+Creativity and Aesthetics
+Functionality and User Experience
+Code Quality and Structure
+Responsiveness
+Effective Use of Web Development Concepts
+Note: Feel free to leverage your creativity and the skills acquired during the course
+ to deliver an innovative and impressive webpage for Innovative Elizabeth.
+Giveaway: you can always reach out to me when you are blocked
+
+YOU HAVE TILL 10PM ON WEDNESDAY TO SUBMIT
