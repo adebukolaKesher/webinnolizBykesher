@@ -1,0 +1,18 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.left-nav{
+    display: flex;
+}
+.right-nav{
+    display: flex;
+
+}
+.right-nav a{
+    padding: 12px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
