@@ -2,6 +2,13 @@
 margin: 0;
 box-sizing: border-box;
 }
+.left-nav img{
+    height: 3.75rem;
+    width: 4rem;
+} 
+.left-nav img{
+    margin:0 40px ;
+}
 .left-nav{
     display: flex;
 }
@@ -11,8 +18,11 @@ box-sizing: border-box;
 }
 .right-nav a{
     padding: 12px;
+    color: purple;
+    text-decoration-line: none;
 }
 header{
     display: flex;
     justify-content: space-between;
+    background-color: rgba(0, 255, 255, 0.479);
 }
