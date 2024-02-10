@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    .left-nav img{
+        width:3rem;
+    } 
+    .left-nav img{
+        margin:0 2px ;
+    }
+    .left-nav{
+        display: flex;
+    } 
+    .left-nav h1 {
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style:normal;
+        color:crimson;
+    } 
+.right-nav {
+    display: flex;
+} 
+.right-nav a{
+    padding: 12px;
+    color:orangered;
+    text-decoration-line: none;
+} 
+
+header{
+    display: flex;
+    justify-content: space-between; 
+    background-color: azure;
+
+}
