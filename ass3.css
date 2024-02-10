@@ -4,18 +4,47 @@
     box-sizing:border-box;
 }  
 header{
-    background-color: white;
+    background-color: rgb(215, 227, 227);
+    justify-content: space-between;
+    display: flex;
 }
 .left-nav{
     display: flex;
 } 
 .left-nav img{
-    width: 3rem;
+    width: 2.8rem;
     margin-right:0;
+    align-items: center;
 } 
 .left-nav h1{
     color: navy;
     padding: 14px;
     font-size: 18px;
     align-content: center;
+} 
+.middle-nav{
+    display: flex;
 }
+.middle-nav h1{
+    color: navy;
+    padding: 14px; 
+    font-size: 22px;
+    align-items: center;
+} 
+.middle-nav img{
+width: 2.8rem;
+margin:none;
+} 
+.right-nav{
+    display: flex;
+} 
+
+.right-nav img{
+    width: 3rem;
+} 
+.right-nav a{
+    color: navy;
+    padding: 14px; 
+    font-size: 18px;
+    align-items: center;
+} 
