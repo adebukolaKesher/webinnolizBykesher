@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}  
+header{
+    background-color: white;
+}
+.left-nav{
+    display: flex;
+} 
+.left-nav img{
+    width: 3rem;
+    margin-right:0;
+} 
+.left-nav h1{
+    color: navy;
+    padding: 14px;
+    font-size: 18px;
+    align-content: center;
+}
